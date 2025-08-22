@@ -17,7 +17,7 @@ Open to collaborations in:
   - Machine Learning models  
   - Open-source contributions  
 
- Motto: "Data is the new oil, but only if refined with insights!"
+
 ![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jayk2204&show_icons=true&include_all_commits=true&count_private=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayk2204&layout=compact&theme=dark)
