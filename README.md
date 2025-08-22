@@ -22,6 +22,8 @@ Open to collaborations in:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayk2204&layout=compact&theme=dark)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Namaste!+I'm+JK;Data+Science+Student;AI+%7C+DSA+%7C+Web;Open+Source+Contributor)](https://git.io/typing-svg)
+
 
 
 
