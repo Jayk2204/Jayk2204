@@ -5,17 +5,17 @@ Passionate about turning raw data into meaningful insights
 
 ---
 
-### 🔎 Interests
+###  Interests
 - Data Analysis & Visualization (Python, Pandas, Matplotlib, Power BI)  
 - Machine Learning & AI (Scikit-learn, TensorFlow)  
 - Statistics, Probability & Real-world Data Problems  
 
-### 📚 Currently Learning
+###  Currently Learning
 - Python for Data Science  
 - SQL for Data Handling  
 - LeetCode for Problem-Solving  
 
-### 🤝 Open to Collaborations In
+###  Open to Collaborations In
 - Data Science projects  
 - Machine Learning models  
 - Open-source contributions  
