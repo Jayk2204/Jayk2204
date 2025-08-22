@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Namaste!+I'm+JK;Data+Science+Student;AI+%7C+DSA+%7C+Web;Open+Source+Contributor)](https://git.io/typing-svg)Data Science Student | Aspiring Data Analyst & ML Enthusiast  
- Passionate about turning raw data into meaningful insights  
+[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Namaste!+I'm+JK;Data+Science+Student;AI+%7C+DSA+%7C+Web;Open+Source+Contributor)](https://git.io/typing-svg)
+Data Science Student | Aspiring Data Analyst & ML Enthusiast Passionate about turning raw data into meaningful insights  
 
  Interests:  
   - Data Analysis & Visualization (Python, Pandas, Matplotlib, Power BI)  
