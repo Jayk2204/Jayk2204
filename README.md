@@ -22,6 +22,6 @@ Open to collaborations in:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayk2204&layout=compact&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jayk2204)
+
 
 
