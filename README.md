@@ -18,5 +18,6 @@ Open to collaborations in:
   - Open-source contributions  
 
  Motto: "Data is the new oil, but only if refined with insights!"
-![JK's GitHub stats](https://github-readme-stats.vercel.app/api?usernameJayk2204&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayk2204&layout=compact)
+![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jayk2204&show_icons=true&include_all_commits=true&count_private=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayk2204&layout=compact&theme=dark)
